@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSeparatorApp", "WordSeparatorApp\WordSeparatorApp.csproj", "{5ACADA76-A35B-471D-867E-D7F8B2A80383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSeparatorAppTests", "WordSeparatorAppTests\WordSeparatorAppTests.csproj", "{24337B64-1CFA-4C38-9ED6-47DCBB3E6FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACADA76-A35B-471D-867E-D7F8B2A80383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACADA76-A35B-471D-867E-D7F8B2A80383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACADA76-A35B-471D-867E-D7F8B2A80383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACADA76-A35B-471D-867E-D7F8B2A80383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24337B64-1CFA-4C38-9ED6-47DCBB3E6FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24337B64-1CFA-4C38-9ED6-47DCBB3E6FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24337B64-1CFA-4C38-9ED6-47DCBB3E6FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24337B64-1CFA-4C38-9ED6-47DCBB3E6FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C8AE0C-BF74-4D2D-B713-6C088FA2F5B3}
+	EndGlobalSection
+EndGlobal
